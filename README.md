@@ -1,1 +1,1 @@
-I collection of smaller projects I developed over the years
+A collection of smaller projects I worked on over the years 
